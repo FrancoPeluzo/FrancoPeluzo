@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FrancoPeluzo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...desarrollarme en el campo de la informatica, soy tecnico en informatica no aplicante, me gustaria entrar en  la parte de programador.
+- 🌱 I’m currently learning ...estoy en curso del programa henry
 - 💞️ I’m looking to collaborate on  
-- 📫 How to reach me ...
+- 📫 How to reach me ...    francopeluzo25@gmail.com
 
 <!---
 FrancoPeluzo/FrancoPeluzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
